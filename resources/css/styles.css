@@ -1,0 +1,16 @@
+* {
+  background-image: url("resources/images/the-flatiron-building.png");
+
+}
+body {
+  text-align: center;
+  font-family: helvetica;
+}
+
+.footer {
+  text-align: left;
+}
+
+.header {
+
+}
